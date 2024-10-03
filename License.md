@@ -1,4 +1,4 @@
-Copyright (c) 2024 Akitsugu Komiyama
+Copyright (C) 2014-2015 hnx8(H.Takahashi) 
 
 The MIT License (MIT)
 
