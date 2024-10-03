@@ -1,2 +1,0 @@
-# win_csharp_readjenc
-テキストファイルのエンコードの自動判定
